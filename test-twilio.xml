@@ -1,3 +1,2 @@
-<Response>
-	<Say voice="alice" language="fr-FR">La cote de 6,40 du barrage "Aérodrome" a été dépassée le 2 avril 2019 à 15 heures 00. Cordialement,Système de surveillance des barrages de Nîmes Métropole</Say>
-</Response>
+
+<Response><Say voice="alice">Thanks for trying our documentation. Enjoy!</Say><Play>http://demo.twilio.com/docs/classic.mp3</Play></Response>
